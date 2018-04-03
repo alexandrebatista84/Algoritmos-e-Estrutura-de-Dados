@@ -2,6 +2,9 @@
 
 int main()
 {
-	printf("Hello World!\n");
+	printf("1 - \t Clientes\n");
+	printf("2 - \t Fornecedores\n");
+	printf("3 - \t Facturas\n\n");
+	printf("0 - \t Sair\n");
 	return 0;
 }
