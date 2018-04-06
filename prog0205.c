@@ -6,5 +6,6 @@ int main()
 	printf("O tamanho em bytes de um inteiro é %d.\n",sizeof(short int));
 	printf("O tamanho em bytes de um float é %d.\n",sizeof(float));
 	printf("O tamanho em bytes de um double é %d.\n",sizeof(double));
+	printf("Isto é um teste.\n");
 	return(0);
 }
