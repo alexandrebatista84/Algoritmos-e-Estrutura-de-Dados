@@ -11,6 +11,6 @@ main()
 	perimetro=2*pi*raio;
 	area=pi*raio*raio;
 	
-	printf("O perimet da circunferência é %f e a sua área é %f.\n",perimetro,area);
+	printf("O perimetro da circunferência é %f e a sua área é %f.\n",perimetro,area);
 	
 }
